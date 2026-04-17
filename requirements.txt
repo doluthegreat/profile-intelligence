@@ -5,3 +5,4 @@ httpx==0.27.0
 uuid6==2024.1.12
 python-dotenv==1.0.1
 gunicorn==21.2.0
+gevent==24.2.1
